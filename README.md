@@ -1,0 +1,1 @@
+"In this code, the four basic arithmetic operations (addition, subtraction, multiplication, and division) are defined as separate functions. The user is prompted to choose the desired operation and enter the operands, and the result of the selected operation is displayed" 
